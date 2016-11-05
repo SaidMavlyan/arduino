@@ -1,0 +1,4 @@
+*.swp
+note.txt
+node_modules
+examples
