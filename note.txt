@@ -1,0 +1,11 @@
+1.  Following link suggest that problems with ethernet shield can be due to
+	wrong resistor on the shield:
+	http://electronics.stackexchange.com/questions/11546/arduino-ethernet-shield-it-just-wont-work#answer-185115
+
+2.  To fix watchdog timer, use following link to burn new bootloader with
+	patches for watchdog:
+	http://www.gammon.com.au/bootloader - burning bootloader
+
+3.  Don't remember from where I read it, but stability with ethernet shield came
+	after I removed SD card. Did not check its impact but to be safe remove SD
+	card if you don't really need it.
