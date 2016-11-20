@@ -9,3 +9,5 @@
 3.  Don't remember from where I read it, but stability with ethernet shield came
 	after I removed SD card. Did not check its impact but to be safe remove SD
 	card if you don't really need it.
+
+4.  To implement simple login system, have a look at: https://github.com/fethica/PHP-Login
